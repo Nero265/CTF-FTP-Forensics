@@ -1,0 +1,9 @@
+Operation Cyber Dawn
+
+1. Secure entry through the digital perimeter by exploiting known vulnerabilities in the firewall.
+2. Deploy the Quantum Decryptor to intercept encrypted communications.
+3. Extract all sensitive data from the primary server.
+4. Cover tracks by erasing logs and deploying misdirection scripts.
+5. Exit the network before the intrusion detection system triggers an alert.
+
+Remember, stealth and speed are key. We cannot afford detection. CyberHero out.
