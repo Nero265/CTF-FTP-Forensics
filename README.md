@@ -10,6 +10,8 @@ Each folder contains a dedicated writeup with methodology, tools used, and final
   FTP traffic analysis using Wireshark, packet filtering, and hex decoding to extract hidden flag.
 - **02-dns-exfiltration**  
   DNS tunneling challenge — detecting exfiltrated data through custom queries.
+- **03-login-form-bof**  
+ Binary exploitation challenge — abusing off-by-one overflow in C struct to gain admin shell.
 
 *(More challenges will be added as the repository grows.)*
 
@@ -21,7 +23,9 @@ Each folder contains a dedicated writeup with methodology, tools used, and final
 - Linux CLI utilities  
 - Cryptography basics (hashing, encoding)  
 - Web exploitation methods  
-
+- Python socket scripting  
+- Buffer overflow exploitation in C binaries
+  
 ---
 
 ## 🎯 Purpose
