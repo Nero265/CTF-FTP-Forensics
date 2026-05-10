@@ -16,7 +16,9 @@ Each folder contains a dedicated writeup with methodology, tools used, and final
   Web exploitation challenge — exploiting type confusion in Express.js validation.
 - **05-weaponizedkey**  
   Reverse engineering challenge — analyzing obfuscated PowerShell script to reconstruct hidden API key.
-
+- **06-hidden-cat**  
+  Steganography challenge — extracting hidden flag from PNG image using LSB bit plane analysis.
+  
 *(More challenges will be added as the repository grows.)*
 
 ---
@@ -34,6 +36,8 @@ Each folder contains a dedicated writeup with methodology, tools used, and final
 - Type confusion exploitation in JavaScript
 - PowerShell reverse engineering & deobfuscation  
 - CyberChef for decoding and analysis 
+- Steganography tools (stegOnline, steghide, zsteg, binwalk)  
+- Bit plane analysis of images
   
 ---
 
