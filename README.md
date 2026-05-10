@@ -14,7 +14,8 @@ Each folder contains a dedicated writeup with methodology, tools used, and final
  Binary exploitation challenge — abusing off-by-one overflow in C struct to gain admin shell.
 - **04-web-len5**  
   Web exploitation challenge — exploiting type confusion in Express.js validation.
-
+- **05-weaponizedkey**  
+  Reverse engineering challenge — analyzing obfuscated PowerShell script to reconstruct hidden API key.
 
 *(More challenges will be added as the repository grows.)*
 
@@ -31,7 +32,8 @@ Each folder contains a dedicated writeup with methodology, tools used, and final
 - Express.js request handling & JSON manipulation  
 - Input validation bypass techniques  
 - Type confusion exploitation in JavaScript
-
+- PowerShell reverse engineering & deobfuscation  
+- CyberChef for decoding and analysis 
   
 ---
 
